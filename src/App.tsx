@@ -3,5 +3,5 @@ export function App() {
     <div className="App">
       <h1>Logo</h1>
     </div>
-  );
+  )
 }
